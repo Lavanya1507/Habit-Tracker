@@ -130,6 +130,3 @@ This project is for educational/demo purposes.
 
 ---
 
-## Credits
-
-Developed by
